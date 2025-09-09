@@ -30,7 +30,7 @@ int main() {
         }
 
         // ta3amol m3a lkhatae wnajah
-        if (!found) {
+        if (!found) { // 0
             attempts--;
             printf(" Mauvais choix! Tentatives restantes: %d\n", attempts);
         } else {
